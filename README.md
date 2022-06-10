@@ -1,0 +1,2 @@
+# Market-Basket-Analysis
+Introduction: While browsing any eCommerce platform, you must have encountered the frequently bought together section. Many businesses add this section to improve sales, which leads to increased income. Market Basket Analysis, also known as Association analysis, is a method for understanding client purchase trends based on historical data. In other words, Market Basket Analysis enables merchants to find links between the products that customers purchase.
