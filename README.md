@@ -45,7 +45,10 @@ The most common approach to find these patterns is Market Basket Analysis, which
 3) Customer Recommendation and Discounts: We could put Toast ,Bread in the cashier, so that every time a customer bought Coffee, we could offer and recommend them to buy Toast , bread with a lower price.
 
 4) Items frequently bought together with Toast are Bread , Coffee , Tea.
+## Future work:
+• Perform customer segmentation for targeted marketing and predict customer behavior.
 
+• Utilize Collaborative filtering to recommend products to a customer.
 
 
 
